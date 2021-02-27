@@ -43,14 +43,14 @@ var config = {
             id: 'chapter1creation',
             alignment: 'left',
             hidden: false,
-            title: 'Origin',
+            title: 'Anishinaabeg',
             image: './images/Creation-Stories-Intro.png',
             description: 'Excellent copy about creation stories here.',
             location: {
-                center: [-88.34675, 42.56382],
-                zoom: 7.00,
+                center: [-91.81116, 47.10954],
+                zoom: 7.60,
                 pitch: 45.00,
-                bearing: -40.0
+                bearing: 0.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
