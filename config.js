@@ -14,7 +14,7 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'What is the Great Lakes Watershed',
+            title: 'What is the Great Lakes Watershed?',
             description: 'A watershed is an area of land where all waterways are connected and channel to a lake, system of lakes or an ocean. Watersheds show how rainfall, snowmelt, and pollutants travel through a landscape and how each organism reliant on water is connected.<br><br> The Great Lakes Watershed, also called the Great Lakes Basin, consists of Michigaming and surrounding land and waterways. Michigaming, which translates as “the vast sea” is the entity that centers Anishinaabewakiing and is known to other cartographers as a system of five lakes (Lake Superior, Lake Michigan, Lake Huron, Lake Erie, and Lake Ontario). The Great Lakes Watershed has been an essential part of North American life since it was formed 12,000 years ago and continues to be essential to those who live in the region. It currently supports over 3,500 variations of life and accounts for more than 20% of the earth’s fresh water.',
             location: {
                 center: [-90.29875, 48.29298],
