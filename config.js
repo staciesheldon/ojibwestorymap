@@ -43,7 +43,7 @@ var config = {
             id: 'chapter1creation',
             alignment: 'left',
             hidden: false,
-            title: 'Anishinaabeg',
+            title: 'Anishinaabeg Origin',
             image: './images/Creation-Stories-Intro.png',
             description: 'Excellent copy about creation stories here.',
             location: {
