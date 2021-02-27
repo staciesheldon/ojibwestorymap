@@ -40,6 +40,25 @@ var config = {
             ]
         },
         {
+            id: 'chapter1creation',
+            alignment: 'left',
+            hidden: false,
+            title: 'Origin',
+            image: './images/Creation-Stories-Intro.png',
+            description: 'Excellent copy about creation stories here.',
+            location: {
+                center: [-88.34675, 42.56382],
+                zoom: 7.00,
+                pitch: 45.00,
+                bearing: -40.0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'chapter2hochunk',
             alignment: 'left',
             hidden: false,
