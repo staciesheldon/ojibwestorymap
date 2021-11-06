@@ -43,11 +43,11 @@ var config = {
             id: 'chapter1creation',
             alignment: 'left',
             hidden: false,
-            title: 'Anishinaabeg Origin',
+            title: 'The Watershed Welcomes People',
             image: './images/Creation-Stories-Intro.png',
             description: 'The Anishinaabe Creation stories vary from group to group as the term Anishinaabe encompasses a number of groups that share a similar language, live in the woodlands or plains sometimes and share a basic cultural structure. Those known as the “Three Fires” of this group are the Ojibwe, Potawatomi and the Odawa but other groups such as the Menominee and Meskwaki (Sac and Fox), Maa’ami and Kickapoo are also considered relatives as all the group share similar cultures and languages. As such, there are a variety of creation stories coming from those identified as Anishinaabe and all of the stories (out of respect for each other) are considered true by the Anishinaabe people. Here are some of the stories.',
             location: {
-                center: [-91.81116, 47.10954],
+                center: [46.7, -90.68],
                 zoom: 7.60,
                 pitch: 45.00,
                 bearing: 0.00
@@ -62,7 +62,7 @@ var config = {
             id: 'chapter2anishinaabeg',
             alignment: 'left',
             hidden: false,
-            title: 'Anishinaabeg Origin Story',
+            title: 'The Anishinaabeg Creation',
             image: './images/Anishinaabeg.jpg',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
