@@ -45,7 +45,7 @@ var config = {
             hidden: false,
             title: 'Anishinaabeg Origin',
             image: './images/Creation-Stories-Intro.png',
-            description: 'The Anishinaabe Creation stories vary from group to group as the term Anishinaabe encompasses a number of groups that share a similar language, live in the woodlands or plains sometimes and share a basic cultural structure. Those known as the “Three Fires” of this group are the Ojibwe, Potawatomi and the Odawa but other groups such as the Menominee and Meskwaki (Sac and Fox), Maa’ami and Kickapoo are also considered relatives as all the group share similar cultures and languages. As such, there are a variety of creation stories coming from those identified as Anishinaabe and all of the stories (out of respect for each other) are considered true by the Anishinaabe people.',
+            description: 'The Anishinaabe Creation stories vary from group to group as the term Anishinaabe encompasses a number of groups that share a similar language, live in the woodlands or plains sometimes and share a basic cultural structure. Those known as the “Three Fires” of this group are the Ojibwe, Potawatomi and the Odawa but other groups such as the Menominee and Meskwaki (Sac and Fox), Maa’ami and Kickapoo are also considered relatives as all the group share similar cultures and languages. As such, there are a variety of creation stories coming from those identified as Anishinaabe and all of the stories (out of respect for each other) are considered true by the Anishinaabe people. Here are some of the stories.',
             location: {
                 center: [-91.81116, 47.10954],
                 zoom: 7.60,
@@ -59,12 +59,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter2hochunk',
+            id: 'chapter2anishinaabeg',
             alignment: 'left',
             hidden: false,
-            title: 'Ho-Chunk',
-            image: './images/Ho-Chunk.png',
-            description: 'Ho-Chunk story notes here.',
+            title: 'Anishinaabeg Origin Story',
+            image: './images/Anishinaabeg.png',
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: [-88.34675, 42.56382],
                 zoom: 7.00,
@@ -83,7 +83,26 @@ var config = {
             hidden: false,
             title: 'Oneida',
             image: './images/Oneida.png',
-            description: 'Oneida story notes here.',
+            description: 'The Oneida creation story begins in the Sky World where a different group of people lived, supported by the light and fruit of a tree. No one was to harm the tree. But a pregnant woman asked her husband to get roots from the tree and he began to dig a hole but got scared and stopped. She was mad and went there to look and fell through the hole into a world made of water below. The water animals found the great turtle to support her and on the back of the turtle, she gave birth to twins and with the help of the muskrat she was able to get soil from the bottom of the water and with this handful of soil she created turtle island. The story continues with details of what happened with her sons and the new place she created.',
+            location: {
+                center: [-88.85392, 44.08852],
+                zoom: 7.10,
+                pitch: 45.00,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter3ho-chunk',
+            alignment: 'left',
+            hidden: false,
+            title: 'Ho-Chunk Origin Story',
+            image: './images/Ho-Chunk.png',
+            description: 'The Ho Chunk origin story starts with the Earthmaker in a vast, empty place.  In his loneliness, the Earthmaker cries and the tears formed the oceans, lakes and rivers. When he thought of light, it became real and he began to think of other things to bring to reality. He made trees, grass, rocks to steady the Earth but it wasn’t steady yet, so he made the four winds to tie it all down, balanced. Finally, he made four large snake-beings and threw them down to the underneath and then the Earth was balanced. Next, he made four beings in his own likeness from clay and brought them to life. They became the Thunderbird Chiefs. The Earthmaker made brothers in sets of 4 to represent the various clans and they all became the Ho Chunk, settling at the Red Banks near Green Bay.',
             location: {
                 center: [-88.85392, 44.08852],
                 zoom: 7.10,
