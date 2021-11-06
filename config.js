@@ -85,7 +85,7 @@ var config = {
             image: './images/Oneida.png',
             description: 'The Oneida creation story begins in the Sky World where a different group of people lived, supported by the light and fruit of a tree. No one was to harm the tree. But a pregnant woman asked her husband to get roots from the tree and he began to dig a hole but got scared and stopped. She was mad and went there to look and fell through the hole into a world made of water below. The water animals found the great turtle to support her and on the back of the turtle, she gave birth to twins and with the help of the muskrat she was able to get soil from the bottom of the water and with this handful of soil she created turtle island. The story continues with details of what happened with her sons and the new place she created.',
             location: {
-                center: [44.5, -88.19],
+                center: [-88.19, 44.5],
                 zoom: 7.10,
                 pitch: 45.00,
                 bearing: 0.00
@@ -104,7 +104,7 @@ var config = {
             image: './images/Ho-Chunk.png',
             description: 'The Ho Chunk origin story starts with the Earthmaker in a vast, empty place.  In his loneliness, the Earthmaker cries and the tears formed the oceans, lakes and rivers. When he thought of light, it became real and he began to think of other things to bring to reality. He made trees, grass, rocks to steady the Earth but it wasn’t steady yet, so he made the four winds to tie it all down, balanced. Finally, he made four large snake-beings and threw them down to the underneath and then the Earth was balanced. Next, he made four beings in his own likeness from clay and brought them to life. They became the Thunderbird Chiefs. The Earthmaker made brothers in sets of 4 to represent the various clans and they all became the Ho Chunk, settling at the Red Banks near Green Bay.',
             location: {
-                center: [44.5, -88.19],
+                center: [-88.19, 44.5],
                 zoom: 7.10,
                 pitch: 45.00,
                 bearing: 0.00
@@ -123,7 +123,7 @@ var config = {
             image: './images/Clans.png',
             description: 'There are several clan systems that have operated in this region for thousands of years. Anishinaabe groups have a system that operates patrilineally, clans are inherited through the father. The cardinal Ojibwe clans are Crane, Loon, Bear, Fish, Marten, Deer and Bird, (small birds) and there are many offshoots of each of these groups.  Each clan also had responsibilities to keep. Some were teaching, storytelling, medicine, and warriors. However, it was typical for the man to join the woman’s family once married (balance). One cannot marry another of the same clan as they are considered related, no matter how distantly the families are geographically located. Iroquoian groups follow a matrilineal passage of clanship, through the mother. The Ho-Chunk have a split clan system “those who are above (eagle, pigeon, thunder and warrior) and those who are below (bear, buffalo, deer, wolf, water spirit and snake) each with specific responsibilities.',
             location: {
-                center: [44.07, -88.7],
+                center: [-88.7, 44.07],
                 zoom: 7.10,
                 pitch: 45.00,
                 bearing: 0.00
