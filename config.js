@@ -7,7 +7,7 @@ var config = {
     use3dTerrain: false,
     title: 'The Story of the Great Lakes Watershed',
     subtitle: 'The Anishinaabe Three Fires Confederacy remains a significant network of stewardship protecting language, culture, land, and water. Over 120 nations are a part of this diaspora. This is the story of the Great Lakes Watershed from an indigenous perspective.',
-    byline: 'February 26, 2021 ~ by Ojibwe.net',
+    byline: 'November 5, 2021 ~ by Ojibwe.net',
     footer: 'Source: source citations, etc.',
     chapters: [
         {
