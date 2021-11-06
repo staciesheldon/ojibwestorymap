@@ -120,7 +120,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Our Relations. The Clan System.',
-            image: './images/Clans.png',
+            image: './images/Clans.jpg',
             description: 'There are several clan systems that have operated in this region for thousands of years. Anishinaabe groups have a system that operates patrilineally, clans are inherited through the father. The cardinal Ojibwe clans are Crane, Loon, Bear, Fish, Marten, Deer and Bird, (small birds) and there are many offshoots of each of these groups.  Each clan also had responsibilities to keep. Some were teaching, storytelling, medicine, and warriors. However, it was typical for the man to join the woman’s family once married (balance). One cannot marry another of the same clan as they are considered related, no matter how distantly the families are geographically located. Iroquoian groups follow a matrilineal passage of clanship, through the mother. The Ho-Chunk have a split clan system “those who are above (eagle, pigeon, thunder and warrior) and those who are below (bear, buffalo, deer, wolf, water spirit and snake) each with specific responsibilities.',
             location: {
                 center: [-88.7, 44.07],
